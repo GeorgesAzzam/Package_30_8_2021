@@ -1,4 +1,4 @@
- define("UsrStandardModule", [],
+ define("UsrStandardModuleSVN", [],
     function () {
         return {
             config:{},
