@@ -4,6 +4,7 @@
 		<Items>
 			<Item Name="Caption" Value="ObjectSVN" />
 			<Item Name="Columns.UsrAge.Caption" Value="Age" />
+			<Item Name="Columns.UsrDate.Caption" Value="Date" />
 			<Item Name="Columns.UsrName.Caption" Value="Name" />
 		</Items>
 	</Group>
