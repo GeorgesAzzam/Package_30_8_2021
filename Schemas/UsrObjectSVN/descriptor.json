@@ -2,11 +2,7 @@
   "Descriptor": {
     "UId": "6fcd761f-a7fb-4239-890c-7c3e1cae17ed",
     "Name": "UsrObjectSVN",
-    "ModifiedOnUtc": "\/Date(1630308800000)\/",
-    "Parent": {
-      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
-      "Name": "BaseEntity"
-    },
+    "ModifiedOnUtc": "\/Date(1630331931000)\/",
     "ManagerName": "EntitySchemaManager",
     "Caption": "ObjectSVN"
   }
